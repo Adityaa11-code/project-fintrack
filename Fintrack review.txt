@@ -1,0 +1,9 @@
+histori dihapus > dimasukkan ke pemasukan/pengeluaran terakhir
+
+pemasukan/pengeluaran akhir akan direset setiap masuk bulan baru
+
+analisis & insight dimasukkan ke dalam pemasukan/pengeluaran akhir (termasuk dengan bar chart/grafik pemasukan/pengeluaran akhir)
+
+planning dan target (kategori cicilan), Tarik otomatis dari saldo per-bulan, semisalnya tercapai otomatis masuk ke histori (termasuk beberapa cicilan yg dimasukkan)
+
+testing firebase--
